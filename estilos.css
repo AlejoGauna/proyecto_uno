@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+.cabecera {
+    text-align: center;
+    background-color: #E0B348;
+    border: solid 2px #947221;
+    font-family: 'Huracán', cursiva;;
+}
+
+.parrafo1{
+    text-align: right;
+}
+
+nav {
+    margin: 10px;
+    padding: 10px;
+}
+
+.enlaces {
+    display: inline-block;
+    font-size: larger;
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px #947221;
+    border-radius: 4px;
+}
+
+footer{
+    margin: 0 ;
+    border: solid 2px #0A0802 ;
+    text-align: left;
+    background-color: #E0B348;
+}
+
